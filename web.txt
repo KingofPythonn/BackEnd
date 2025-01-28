@@ -1,0 +1,14 @@
+https://saijogeorge.com/css-puns/titanic/
+https://appbrewery.github.io/css-display/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://appbrewery.github.io/flex-layout/
+https://appbrewery.github.io/flexboxfroggy/
+https://appbrewery.github.io/flexbox-sizing-exercise/
+https://appbrewery.github.io/grid-vs-flexbox/
+https://appbrewery.github.io/grid-sizing/test.html
+https://appbrewery.github.io/gridgarden/
+https://appbrewery.github.io/bootstrap-layout/
+https://appbrewery.github.io/tindog/
+https://appbrewery.github.io/bootstrap-components/
+https://www.appbrewery.co/p/web-development-course-resources
+https://appbrewery.com/p/legacy-complete-web-development-course/

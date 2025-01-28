@@ -1,0 +1,6 @@
+May I recommend a course here on Udemy? Then check out React, NodeJS, Express & MongoDB - The MERN Fullstack Guide by Maximilian Schwarzmüller (English language). It gives you answers your are looking for. Very good course.
+
+
+https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
+
+I guess install "Node.js Modules Intellisense" inside VS code will solve this issue 
