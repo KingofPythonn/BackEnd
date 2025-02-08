@@ -4,3 +4,15 @@ May I recommend a course here on Udemy? Then check out React, NodeJS, Express & 
 https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 
 I guess install "Node.js Modules Intellisense" inside VS code will solve this issue 
+
+Two different things.
+
+You can bring the SOURCE CODE to GitHub anytime you want by simply creating a new repository online, set up a local GIT on your local computer, push the code, etc, etc (as in the usual drill).
+
+However, to host a dynamic site online you need an additional service such as Render.com (have a look at it and search for instructions for publishing a Node JS based site).
+
+All the best,
+
+Julio.-
+
+https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38911782#questions/20317244

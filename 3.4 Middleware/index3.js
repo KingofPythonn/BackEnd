@@ -12,7 +12,7 @@ next();
 app.use(logger);
 
 
-app.get("/", (req, res) => {
+app.get("/ss", (req, res) => {
   res.send("Hello");
 });
 
