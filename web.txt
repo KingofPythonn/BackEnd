@@ -28,3 +28,4 @@ https://zaidsunasra.github.io/Mini-Games/
 https://learngitbranching.js.org/
 https://wheretheiss.at/w/developer
 https://github.com/appbrewery/api-example-bored-api
+https://pattern.monster
